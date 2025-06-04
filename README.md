@@ -39,6 +39,5 @@ Dataset available at: [Kaggle: Default of Credit Card Clients Dataset](https://w
   * `default.payment.next.month`: Indicates default payment status for the next month (1 = default, 0 = no default)
 
 ---
-
-This dataset is widely utilized for credit risk modeling and classification tasks, offering a rich set of features for predictive analysis.
+This dataset is widely utilized for credit risk modeling and classification tasks
 ---
