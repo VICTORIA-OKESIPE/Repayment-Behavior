@@ -1,6 +1,6 @@
 Dataset available at: [Kaggle: Default of Credit Card Clients Dataset](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset?select=UCI_Credit_Card.csv)
 
-----
+---
 
 ### Dataset Summary
 
