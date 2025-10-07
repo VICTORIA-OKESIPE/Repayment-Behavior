@@ -41,3 +41,5 @@ Dataset available at: [Kaggle: Default of Credit Card Clients Dataset](https://w
 ---
 This dataset is widely utilized for credit risk modeling and classification tasks.
 -
+
+* Now, let's explore the data
