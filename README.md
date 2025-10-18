@@ -2,7 +2,7 @@ Dataset available at: [Kaggle: Default of Credit Card Clients Dataset](https://w
 
 ---
 
-### Dataset Summary
+### Dataset Summaryy
 
 * **Title**: Default of Credit Card Clients Dataset
 * **Source**: UCI Machine Learning Repository
